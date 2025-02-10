@@ -1,0 +1,20 @@
+{
+    "activities": [
+        {
+            "duration": 60,
+            "date": "2024-10-19",
+            "caloriesBurned": 660,
+            "activityName": "running"
+        },
+        {
+            "duration": 60,
+            "date": "2024-10-19",
+            "caloriesBurned": 420,
+            "activityName": "swimming"
+        }
+    ],
+    "totalCaloriesBurned": 1080,
+    "name": "Axel",
+    "isGoalAchieved": false,
+    "longTermGoal": 0
+}
