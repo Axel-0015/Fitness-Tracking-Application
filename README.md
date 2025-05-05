@@ -79,3 +79,6 @@ A *bulleted* list:
     If I had more time to work on the project, I would refactor the code to improve class cohesion by breaking down large complex classes into smaller, more focused ones. For instance, the UI calss ActivityTrackerGUI handles user input, data storage, activity tracking, and analytics, these responsibilities could be divided into distinct classes such as InputHandler, DataManager, ActivityTracker, and StatisticsAnalyzer.
 
     This refactoring would make each class more cohesive, focusing on a single responsibility, which aligns with the Single Responsibility Principle. It would also make the code easier to read, test, and maintain, as changes in one module wouldn’t directly affect others. While this approach might slightly increase the number of classes, it would reduce the probability of introducing bugs when modifying or extending specific functionalities.
+
+# ScreenShot
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/d3e80c48-a136-4d76-8f71-873cf0c9c55f" />
