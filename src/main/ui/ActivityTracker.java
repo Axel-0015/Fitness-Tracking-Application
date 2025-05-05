@@ -1,9 +1,9 @@
-package ui;
+package main.ui;
 
-import model.*;
+import main.model.*;
 import java.util.*;
-import persistence.JsonReader;
-import persistence.JsonWriter;
+import main.persistence.JsonReader;
+import main.persistence.JsonWriter;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -1,9 +1,9 @@
-package ui;
+package main.ui;
 
-import model.Activity;
-import model.User;
-import persistence.JsonReader;
-import persistence.JsonWriter;
+import main.model.Activity;
+import main.model.User;
+import main.persistence.JsonReader;
+import main.persistence.JsonWriter;
 
 import javax.swing.*;
 import java.awt.*;

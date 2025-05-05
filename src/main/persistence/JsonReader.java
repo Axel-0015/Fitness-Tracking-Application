@@ -1,6 +1,6 @@
-package persistence;
+package main.persistence;
 
-import model.User;
+import main.model.User;
 
 
 import java.io.*;
